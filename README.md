@@ -69,6 +69,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@rdhadge](https://github.com/rdhadge) | title_case, repeat_string, base64_encode, base64_decode |
 | [@JingliangGao](https://github.com/JingliangGao) | is_uppercase |
 | [@Julito-Dev](https://github.com/Julito-Dev) | reverse_words |
+| [@Diyaaa-12](https://github.com/Diyaaa-12) | absolute, is_odd |
+| [@Bruce191](https://github.com/Bruce191) | is_even, swap_case |
 
 <!-- Contributors are added automatically after PRs are merged -->
 
