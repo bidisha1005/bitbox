@@ -8,6 +8,12 @@ Thanks for your interest! bitbox is designed so anyone can contribute a tool in 
 2. **Copy `template.py`** into `tools/your_tool_name.py` and implement the `run()` function.
 3. **Open a PR** — title it `[tool] your_tool_name`.
 
+## Which Issues Can I Work On?
+
+- **Issues assigned to you** — you claimed it, it's yours.
+- **Unassigned issues with no open PRs** — first come, first served.
+- **Do NOT work on issues already assigned to someone else**, even if there's no PR yet. Check the assignees before starting.
+
 ## File Rules (strict)
 
 Every tool file **must** follow these rules:

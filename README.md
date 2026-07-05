@@ -69,6 +69,16 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@rdhadge](https://github.com/rdhadge) | title_case, repeat_string, base64_encode, base64_decode |
 | [@JingliangGao](https://github.com/JingliangGao) | is_uppercase |
 | [@Julito-Dev](https://github.com/Julito-Dev) | reverse_words |
+| [@Diyaaa-12](https://github.com/Diyaaa-12) | absolute, is_odd |
+| [@Bruce191](https://github.com/Bruce191) | is_even, swap_case |
+| [@ishita-0301](https://github.com/ishita-0301) | kg_to_lbs, miles_to_km |
+| [@1cbyc](https://github.com/1cbyc) | celsius_to_kelvin, cube, fahrenheit_to_celsius, is_lowercase, keep_vowels, km_to_miles, max_of_two, min_of_two, remove_spaces, remove_vowels, square |
+| [@yusichen396](https://github.com/yusichen396) | lbs_to_kg |
+| [@Rahul6700](https://github.com/Rahul6700) | contains_substring |
+| [@navaneethsankar07](https://github.com/navaneethsankar07) | first_char, last_char, starts_with, snake_to_camel |
+| [@metric-vac](https://github.com/metric-vac) | replace_char |
+| [@m-kras](https://github.com/m-kras) | ends_with |
+| [@shivsdev2](https://github.com/shivsdev2) | camel_to_snake |
 
 <!-- Contributors are added automatically after PRs are merged -->
 
