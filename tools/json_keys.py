@@ -8,4 +8,6 @@ import json
 
 def run(*args) -> str:
     data = json.loads(args[0])
+    if not isinstance(data, dict):
+        return "Error: input must be a JSON object"
     return json.dumps(list(data.keys()))
