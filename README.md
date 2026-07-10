@@ -68,7 +68,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@prakhargaba007](https://github.com/prakhargaba007) | count_chars |
 | [@rdhadge](https://github.com/rdhadge) | title_case, repeat_string, base64_encode, base64_decode |
 | [@JingliangGao](https://github.com/JingliangGao) | is_uppercase |
-| [@Julito-Dev](https://github.com/Julito-Dev) | reverse_words |
+| [@Julito-Dev](https://github.com/Julito-Dev) | reverse_words, is_iso_date |
 | [@Diyaaa-12](https://github.com/Diyaaa-12) | absolute, is_odd, flatten_list, unique_list |
 | [@Bruce191](https://github.com/Bruce191) | is_even, swap_case |
 | [@ishita-0301](https://github.com/ishita-0301) | kg_to_lbs, miles_to_km |
@@ -80,6 +80,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@m-kras](https://github.com/m-kras) | ends_with |
 | [@shivsdev2](https://github.com/shivsdev2) | camel_to_snake |
 | [@VDeepthi11](https://github.com/VDeepthi11) | generate_password |
+| [@blackkingwow](https://github.com/blackkingwow) | url_encode |
+| [@itsmgxb24](https://github.com/itsmgxb24) | is_ipv4 |
+| [@George4177](https://github.com/George4177) | seconds_to_hms |
+| [@Dhruv-Kapri](https://github.com/Dhruv-Kapri) | multiply, remove_char |
 
 <!-- Contributors are added automatically after PRs are merged -->
 
