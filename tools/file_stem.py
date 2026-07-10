@@ -9,6 +9,6 @@ def run(*args) -> str:
     last_slash = txt.rfind('/') + 1
     last_dot = txt.rfind('.') if txt.rfind('.') != -1 else None
 
-    if last_slash == last_dot:
+    if txt[last_slash] == '.':
         return txt[last_slash:]
     return txt[last_slash:last_dot]
