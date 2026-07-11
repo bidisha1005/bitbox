@@ -90,7 +90,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@itsmgxb24](https://github.com/itsmgxb24) | is_ipv4 |
 | [@George4177](https://github.com/George4177) | seconds_to_hms |
 | [@Dhruv-Kapri](https://github.com/Dhruv-Kapri) | multiply, remove_char |
-| [@persianflower](https://github.com/persianflower) | rgb_to_hex |
+| [@persianflower](https://github.com/persianflower) | rgb_to_hex, factorial |
 | [@PurpleSwtr](https://github.com/PurpleSwtr) | is_uuid, longest_word, shortest_word |
 | [@tmshnko](https://github.com/tmshnko) | file_extension, file_stem |
 | [@isaac-sun](https://github.com/isaac-sun) | path_join, path_basename |
@@ -99,6 +99,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@byteofhoney](https://github.com/byteofhoney) | csv_to_json |
 | [@Evarline](https://github.com/Evarline) | decimal_to_hex |
 | [@PriyadharshiniRVP](https://github.com/PriyadharshiniRVP) | current_utc |
+| [@shayneww](https://github.com/shayneww) | env_parse |
 
 <!-- Contributors are added automatically after PRs are merged -->
 
