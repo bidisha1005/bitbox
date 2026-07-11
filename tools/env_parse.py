@@ -6,7 +6,9 @@
 import json
 
 
-def run(env_content: str) -> str:
+def run(*args) -> str:
+    env_content = args[0]
+
     # Ensure the input is a string
     if not isinstance(env_content, str):
         raise TypeError(f"env_content must be a string, got {type(env_content).__name__}")
