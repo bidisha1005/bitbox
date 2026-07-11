@@ -1,5 +1,11 @@
 # bitbox
 
+## Support This Project
+
+> **All projects made with passion** 💙
+
+[![Sponsor me](https://img.shields.io/badge/❤️%20Sponsor-GitHub-red?style=for-the-badge)](https://github.com/sponsors/abduznik)  
+
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-gray)
