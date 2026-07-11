@@ -1,7 +1,7 @@
-# tool: decimal_hex
+# tool: decimal_to_hex
 # description: Converts a decimal integer to its hexadecimal string
 # author: @Evarline
-# example: decimal_to_hex "255 -> "ff"
+# example: decimal_to_hex "255-> "ff"
 
 
 def run(*args) -> str:
