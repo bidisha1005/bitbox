@@ -90,6 +90,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@isaac-sun](https://github.com/isaac-sun) | path_join, path_basename |
 | [@zaid-brk](https://github.com/zaid-brk) | json_keys |
 | [@AminodinAkbari](https://github.com/AminodinAkbari) | int_to_roman |
+| [@byteofhoney](https://github.com/byteofhoney) | csv_to_json |
 
 <!-- Contributors are added automatically after PRs are merged -->
 
