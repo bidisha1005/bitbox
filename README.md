@@ -91,6 +91,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@zaid-brk](https://github.com/zaid-brk) | json_keys |
 | [@AminodinAkbari](https://github.com/AminodinAkbari) | int_to_roman |
 | [@byteofhoney](https://github.com/byteofhoney) | csv_to_json |
+| [@Evarline](https://github.com/Evarline) | decimal_to_hex |
 
 <!-- Contributors are added automatically after PRs are merged -->
 
