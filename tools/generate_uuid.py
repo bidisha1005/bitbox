@@ -7,5 +7,5 @@
 import uuid
 
 
-def run() -> str:
+def run(*args) -> str:
     return str(uuid.uuid4())
