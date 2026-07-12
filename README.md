@@ -81,7 +81,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@1cbyc](https://github.com/1cbyc) | celsius_to_kelvin, cube, fahrenheit_to_celsius, is_lowercase, keep_vowels, km_to_miles, max_of_two, min_of_two, remove_spaces, remove_vowels, square |
 | [@yusichen396](https://github.com/yusichen396) | lbs_to_kg |
 | [@Rahul6700](https://github.com/Rahul6700) | contains_substring |
-| [@navaneethsankar07](https://github.com/navaneethsankar07) | first_char, last_char, starts_with, snake_to_camel, random_int, is_integer, sentence_count, day_of_week |
+| [@navaneethsankar07](https://github.com/navaneethsankar07) | first_char, last_char, starts_with, snake_to_camel, random_int, is_integer, sentence_count, day_of_week, gcd, url_decode |
 | [@metric-vac](https://github.com/metric-vac) | replace_char |
 | [@m-kras](https://github.com/m-kras) | ends_with |
 | [@shivsdev2](https://github.com/shivsdev2) | camel_to_snake |
