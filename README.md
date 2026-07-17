@@ -100,7 +100,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@Evarline](https://github.com/Evarline) | decimal_to_hex |
 | [@PriyadharshiniRVP](https://github.com/PriyadharshiniRVP) | current_utc |
 | [@shayneww](https://github.com/shayneww) | env_parse |
-| [@selvakanthanjagavan-byte](https://github.com/selvakanthanjagavan-byte) | html_escape |
+| [@selvakanthanjagavan-byte](https://github.com/selvakanthanjagavan-byte) | html_escape, lcm |
 
 | [@Ayush-0918](https://github.com/Ayush-0918) | decimal_to_binary |
 
