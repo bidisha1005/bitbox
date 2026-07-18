@@ -38,8 +38,8 @@ def get_description(filepath):
                     return line.split(":", 1)[1].strip()
                 if not line.startswith("#") and line != "":
                     break
-    except Exception:
-        pass
+    except Exception as e:
+        print(f"Warning: could not read description from {filepath}: {e}", file=sys.stderr)
     return "No description"
 
 
