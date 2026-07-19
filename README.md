@@ -90,7 +90,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@itsmgxb24](https://github.com/itsmgxb24) | is_ipv4 |
 | [@George4177](https://github.com/George4177) | seconds_to_hms |
 | [@Dhruv-Kapri](https://github.com/Dhruv-Kapri) | multiply, remove_char |
-| [@persianflower](https://github.com/persianflower) | rgb_to_hex, factorial, hex_to_decimal |
+| [@persianflower](https://github.com/persianflower) | rgb_to_hex, factorial, hex_to_decimal, is_alphanumeric |
 | [@PurpleSwtr](https://github.com/PurpleSwtr) | is_uuid, longest_word, shortest_word, generate_uuid, reading_time |
 | [@tmshnko](https://github.com/tmshnko) | file_extension, file_stem |
 | [@isaac-sun](https://github.com/isaac-sun) | path_join, path_basename |
@@ -101,6 +101,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@PriyadharshiniRVP](https://github.com/PriyadharshiniRVP) | current_utc |
 | [@shayneww](https://github.com/shayneww) | env_parse |
 | [@selvakanthanjagavan-byte](https://github.com/selvakanthanjagavan-byte) | html_escape, lcm |
+| [@fazalpsinfo-cmyk](https://github.com/fazalpsinfo-cmyk) | error handling (get_description) |
 
 | [@Ayush-0918](https://github.com/Ayush-0918) | decimal_to_binary |
 
